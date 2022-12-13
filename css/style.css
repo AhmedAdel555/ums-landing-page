@@ -42,13 +42,13 @@ header nav span{
 
 
 .item1{
-    background-image: url(/image/firstImage.jpeg);
+    background-image: url(../image/firstImage.jpeg);
 }
 .item2{
-    background-image: url(/image/secondImage.jpeg);
+    background-image: url(../image/secondImage.jpeg);
 }
 .item3{
-    background-image: url(/image/thirdImage.jpeg);
+    background-image: url(../image/thirdImage.jpeg);
 }
 
 .carousel-item .carousel-caption{
